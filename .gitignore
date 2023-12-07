@@ -5,6 +5,7 @@ audiostream/config.pxi
 ### C ###
 # Prerequisites
 *.d
+*.c
 
 # Object files
 *.o
